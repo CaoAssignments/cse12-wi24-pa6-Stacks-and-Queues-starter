@@ -437,6 +437,6 @@ public class PublicTester {
     @Test
     public void AllIncreasing() {
         int[] arr = new int[]{1, 2, 3};
-        assertEquals(1, MyAlgorithm.avgDiffMonotonicIncreasing(arr), EPSILON, "Subsequence should not change from arr");
+        assertEquals("Subsequence should not change from arr", 1, MyAlgorithm.avgDiffMonotonicIncreasing(arr), EPSILON);
     }
 }
