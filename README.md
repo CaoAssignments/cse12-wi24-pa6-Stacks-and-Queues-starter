@@ -675,4 +675,4 @@ Submit all of the following files to Gradescope
     * Deque/Stack/Queue/Algorithm Implementation [85 points]
         * The autograder will test your implementation on the public test cases given in `PublicTester.java` and hidden test cases not described in this PA writeup.
 * **Coding Style** [5 points]
-    * `MyDeque.java` and `MyAlgorithm.java` will be graded on style. `CustomTester.java` will be graded on file, class, method headers and indentation.
+    * `MyDeque.java`, `MyStack.java`, `MyQueue.java`, and `MyAlgorithm.java` will be graded on style. `CustomTester.java` will be graded on file, class, method headers and indentation.
